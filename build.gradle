@@ -91,7 +91,6 @@ publishing {
             artifactId System.getenv("MAVEN_ARTIFACT") ?: project.mod_id
             version version
             from components.java
-//            artifact jar
 
             pom {
                 name = mod_name
