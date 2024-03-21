@@ -1,4 +1,4 @@
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/000000style=for-the-badge&logo=curseforge)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/000000?style=for-the-badge&logo=curseforge)
 ![CurseForge Downloads](https://img.shields.io/curseforge/game-versions/000000?style=for-the-badge&logo=curseforge)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/00000000?style=for-the-badge&logo=modrinth)
 ![Modrinth Downloads](https://img.shields.io/modrinth/game-versions/00000000?style=for-the-badge&logo=modrinth)
